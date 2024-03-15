@@ -16,7 +16,7 @@ const inicialimage = getRandomFromArray(arrImage)
   
 
 const objStyle = {
- backgroundImage : `url("./public/fondo${imgSelect}.png")`
+ backgroundImage : `url("/fondo${imgSelect}.png")`
 }
 
 
