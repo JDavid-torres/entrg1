@@ -1,0 +1,13 @@
+
+.card__phrase{
+font-weight: 150;
+line-height: 1.4em;
+font-size: 1.1rem;
+font-style: italic;
+}
+.card__phrase::after {
+content: '"';
+}
+.card__phrase::before{
+content: '"';
+}
